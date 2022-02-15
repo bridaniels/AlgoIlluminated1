@@ -17,4 +17,9 @@ Algorithms Illuminated, Part 1: The Basics by Tim Roughgarden
 - [Problems](02_AsymptoticNotation/02_problems.ipynb)
 
 
-### [Chapter 3: ]
+### [Chapter 3: Divide and Conquer](03_DivideAConquer)
+- [Divide and Conquer Paradigm](03_DivideAConquer/dcParadigm.ipynb)
+- [Counting Inversions in `O(n log n)` Time](03_DivideAConquer/countInversions.ipynb)
+- [Strassen's Matrix Multiplication Algorithm](03_DivideAConquer/strassenMatrix.ipynb)
+- [An `O(n log n)`-Time Algorithm for the Closest Pair](03_DivideAConquer/closestPair.ipynb)
+- [Problems](03_DivideAConquer/03_problems.ipynb)
